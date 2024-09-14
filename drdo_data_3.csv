@@ -1,0 +1,4 @@
+﻿Material,Viscosity (cP),Molecular Weight (g/mol),Density (g/cm³),Bulk Density (kg/m³),Casting Thickness (µm),Casting Time (s),Solvent Type,Solvent Volume (ml),TPU Concentration (% w/v),Coagulation Bath Time (h),Drying Method,Polyol/Isocyanate Ratio,Polyol Content (g),Isocyanate Content (g), Formation Method,Degree of Phase Separation,Inter hard Domain Segment Repeat Distance (d-value)
+TPU Membrane,394.2,"1,50,000",1.2,600,250,30,DMF,10,16,24,Coagulation (Water),100:60,1.18,0.71,Phase Inversion,3.76,11.63
+TPU Film,394.2,"1,50,000",1.2,650,100,30,DMF,10,16,0,Solvent Evaporation,100:60,1.18,0.71,Casting (Petridish),5.63,13.08
+PU Foam,500,1500,0.08,60,0,0,not required,0,0,0,not requied,100:60,1.18,0.71,Polyol-Isocyanate Mixing,0.003,14.27
